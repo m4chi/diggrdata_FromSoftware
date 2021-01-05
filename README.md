@@ -111,10 +111,14 @@ fromsoft_release_release_timeline.html.prov
 
 All available FromSoftware game releases in Japan (JP), Europe (EU) and North America (US) mapped on an interactive timeline with some additional information. The visualization was created with [diggr tulpa](https://github.com/diggr/tulpa). Provenance information is available, added with [diggr provit](https://github.com/diggr/provit).
 
-## 4. Various visualizations and charts created from the data
+## 4. Various visualizations and charts created from the data between October 2020 and December 2020
 
-1.
-2.
+1. [Headquarter Locations of Companies involved in FromSoftware games](FromSoftware_ReleaseAnalysis_CompanyLocations.svg)
+2. [Distribution of first releases by region](FromSoftware_ReleaseAnalysis_FirstReleaseCountryDistribution.svg)
+3. [Temporal Distance between first release in Japan and first release in the US and EU region](FromSoftware_ReleaseAnalysis_ReleaseDistanceJPEUUS.svg)
+4. [Per-game releases per region, stacked](FromSoftware_ReleaseAnalysis_ReleaseRegion.svg)
+5. [Role-based chart of company locations, divided into two groups, a.) Japan, b.) other countries](FromSoftware_Rolebased_companyCountries.svg)
+
 
 # ARCHIVE (original data, etc.)
 
