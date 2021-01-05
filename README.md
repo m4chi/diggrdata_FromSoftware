@@ -93,34 +93,6 @@ FromSoftware_ProductionNetwork_MobygamesReleaseBased20201005_edges.csv
 
 Production network of companies involved in FromSoftware games according to the release data on Mobygames.com. Edges are based on contribution to the same game (collaboration network), including a distinction of node for different roles a company might take on, as well as the company location if available via Wikidata. The data was created with [diggr lemongrab](https://github.com/diggr/lemongrab) and edited manually in Gephi 0.9.2 to add statistical data, as well as to include several country data missing on Wikidata and a country based color hex code, following [this schema]()
 
-Or, in plain text:
-| Country	Color | Hexcode |
-| Australia	| 800000 |
-| France	| 7cfc00 |
-| Germany	| 008000 |
-| Greece	| d2b48c |
-| Hong Kong	| db7093 |
-| Hungary	| 87cefa |
-| India	| ffa500 |
-| Ireland	| 0000ff |
-| Italy	| 6b8e23 |
-| Japan	| ff0000 |
-| Malaysia	| ffc0cb |
-| Netherlands	| adff2f |
-| New Zealand	| d2691e |
-| People's Republic of China	| c71585 |
-| Philippines	| ff7f50 |
-| Poland	| 4682b4 |
-| Russia	| 000080 |
-| South Korea	| ff6347 |
-| Spain	| 808000 |
-| Sweden	| 483d8b |
-| Taiwan	| b22222 |
-| Thailand	| ffdab9 |
-| undefined	| ffffff |
-| United Kingdom	| 4169e1 |
-| United States of America	| 708090 |
-
 ## 3. FromSoftware Release Timeline
 
 ### current version from
