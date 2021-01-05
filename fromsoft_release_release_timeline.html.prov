@@ -1,0 +1,130 @@
+{
+  "@context": {
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "provit": "http://vocab.ub.uni-leipzig.de/provit/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_releases_json/57d129d8e0f34ff69555718d20c49448",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/martin/research/diggrfin/fromsoft_release/datasets/releases/fromsoft_release_releases.json",
+      "prov:hadPrimarySource": {
+        "@id": "provit:gamefaqs"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "provit:tulpa_0.1.0"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_games_json/74dcff39dca84a2b9ef8895a95bfc874"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "http://vocab.ub.uni-leipzig.de/provit/build_releases_dataset/106478689e8c49fe9260410808cf48bb"
+      }
+    },
+    {
+      "@id": "provit:tulpa_0.1.0",
+      "@type": "prov:Agent"
+    },
+    {
+      "@id": "provit:provit",
+      "@type": "prov:Agent"
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_yml/c242d36a75304ebea939746363de9996",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/martin/research/diggrfin/fromsoft_release/fromsoft_release.yml",
+      "prov:wasAttributedTo": {
+        "@id": "provit:provit"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "http://vocab.ub.uni-leipzig.de/provit/initialize_provit/05c7405a80404d8795203f659c71ef1e"
+      }
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/build_games_dataset/92c5599dc6024548935cc1748af755b8",
+      "@type": "prov:Activity",
+      "prov:endedAtTime": {
+        "@type": "xsd:dateTime",
+        "@value": "2020-07-18T14:03:45.224072"
+      },
+      "rdfs:label": "Contains all mobygames links and for the games in the gamelist "
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/initialize_provit/05c7405a80404d8795203f659c71ef1e",
+      "@type": "prov:Activity",
+      "prov:endedAtTime": {
+        "@type": "xsd:dateTime",
+        "@value": "2020-07-18T14:03:45.225328"
+      },
+      "rdfs:label": "Initialize provenance documentation for source file [automatically generated]"
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_games_json/74dcff39dca84a2b9ef8895a95bfc874",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/martin/research/diggrfin/fromsoft_release/datasets/games/fromsoft_release_games.json",
+      "prov:hadPrimarySource": {
+        "@id": "provit:mobygames"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "provit:tulpa_0.1.0"
+      },
+      "prov:wasDerivedFrom": {
+        "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_yml/c242d36a75304ebea939746363de9996"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "http://vocab.ub.uni-leipzig.de/provit/build_games_dataset/92c5599dc6024548935cc1748af755b8"
+      }
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/build_release_timeline/0b273a5d310649e29bf1becaaa0ab4aa",
+      "@type": "prov:Activity",
+      "prov:endedAtTime": {
+        "@type": "xsd:dateTime",
+        "@value": "2020-07-18T14:07:47.695964"
+      },
+      "rdfs:label": "Interactive release timeline based on GameFAQs release information."
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_release_timeline_html/da1b202d64b04ad1809a53b712ad3d2f",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/martin/research/diggrfin/fromsoft_release/visualizations/release_timeline/fromsoft_release_release_timeline.html",
+      "prov:hadPrimarySource": {
+        "@id": "provit:mobygames"
+      },
+      "prov:wasAttributedTo": {
+        "@id": "provit:tulpa_0.1.0"
+      },
+      "prov:wasDerivedFrom": [
+        {
+          "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_games_json/74dcff39dca84a2b9ef8895a95bfc874"
+        },
+        {
+          "@id": "http://vocab.ub.uni-leipzig.de/provit/fromsoft_release_releases_json/57d129d8e0f34ff69555718d20c49448"
+        }
+      ],
+      "prov:wasGeneratedBy": {
+        "@id": "http://vocab.ub.uni-leipzig.de/provit/build_release_timeline/0b273a5d310649e29bf1becaaa0ab4aa"
+      }
+    },
+    {
+      "@id": "provit:mobygames",
+      "@type": "prov:PrimarySource"
+    },
+    {
+      "@id": "provit:gamefaqs",
+      "@type": "prov:PrimarySource"
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/build_releases_dataset/106478689e8c49fe9260410808cf48bb",
+      "@type": "prov:Activity",
+      "prov:endedAtTime": {
+        "@type": "xsd:dateTime",
+        "@value": "2020-07-18T14:05:18.418329"
+      },
+      "rdfs:label": "Contains all available release information from GameFAQS for each game."
+    }
+  ]
+}

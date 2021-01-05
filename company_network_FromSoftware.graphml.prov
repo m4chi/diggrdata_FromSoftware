@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "prov": "http://www.w3.org/ns/prov#",
+    "provit": "http://vocab.ub.uni-leipzig.de/provit/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "http://schema.org/"
+  },
+  "@graph": [
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/company_network_FromSoftware_graphml/9a8ca26168784565bf75a68c98e0d475",
+      "@type": "prov:Entity",
+      "prov:atLocation": "/home/martin/diggr/lemongrab/company_networks/company_network_FromSoftware.graphml",
+      "prov:wasAttributedTo": {
+        "@id": "provit:lemongrab.py"
+      },
+      "prov:wasGeneratedBy": {
+        "@id": "http://vocab.ub.uni-leipzig.de/provit/build_company_network/b1cac6e27ebb414f80e156509ba4aaad"
+      }
+    },
+    {
+      "@id": "http://vocab.ub.uni-leipzig.de/provit/build_company_network/b1cac6e27ebb414f80e156509ba4aaad",
+      "@type": "prov:Activity",
+      "prov:endedAtTime": {
+        "@type": "xsd:dateTime",
+        "@value": "2020-03-27T11:09:12.151071"
+      },
+      "rdfs:label": "Build company network based on tulpa exported sample"
+    },
+    {
+      "@id": "provit:lemongrab.py",
+      "@type": "prov:Agent"
+    }
+  ]
+}

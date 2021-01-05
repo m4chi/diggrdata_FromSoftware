@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="513mm" height="210mm" viewBox="0 0 51300 21000" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" stroke-width="28.222" stroke-linejoin="round" xml:space="preserve">
+ <path fill="rgb(255,255,255)" stroke="none" d="M 25625,21010 L 0,21010 0,0 51250,0 51250,21010 25625,21010 Z"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 24780,13966 L 1832,13966 1832,1954 47727,1954 47727,13966 24780,13966 Z"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,13965 L 1832,13965"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,12763 L 1832,12763"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,11562 L 1832,11562"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,10362 L 1832,10362"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,9160 L 1832,9160"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,7959 L 1832,7959"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,6758 L 1832,6758"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,5556 L 1832,5556"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,4355 L 1832,4355"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,3154 L 1832,3154"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 47727,1953 L 1832,1953"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,13965 L 1832,13965"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,13965 L 1832,13965"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,12763 L 1832,12763"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,12763 L 1832,12763"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,11562 L 1832,11562"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,11562 L 1832,11562"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,10362 L 1832,10362"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,10362 L 1832,10362"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,9160 L 1832,9160"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,9160 L 1832,9160"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,7959 L 1832,7959"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,7959 L 1832,7959"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,6758 L 1832,6758"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,6758 L 1832,6758"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,5556 L 1832,5556"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,5556 L 1832,5556"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,4355 L 1832,4355"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,4355 L 1832,4355"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,3154 L 1832,3154"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,3154 L 1832,3154"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,1953 L 1832,1953"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1682,1953 L 1832,1953"/>
+ <path fill="none" stroke="rgb(179,179,179)" stroke-linejoin="round" d="M 1832,13965 L 1832,1953"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 3856,12607 L 4531,10362 5206,9737 5881,8043 6556,9280"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 9256,12979 L 9931,11802 10606,12235 11281,12403"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 12631,12114 L 13306,11394 13980,13580 14655,11286 15330,10865"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 20055,9545 L 20730,11634 21405,10121 22080,11718 22755,10961"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 30853,10961 L 31528,12319 32203,13916"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 33553,11790 L 34228,13965 34903,11718"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 40302,13820 L 40977,13316"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 45027,13232 L 45702,13736"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 2381,11881 L 2506,12131 2631,11881 2381,11881 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 2381,11881 L 2506,12131 2631,11881 2381,11881 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 3731,12482 L 3856,12732 3981,12482 3731,12482 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 3731,12482 L 3856,12732 3981,12482 3731,12482 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 4406,10237 L 4531,10487 4656,10237 4406,10237 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 4406,10237 L 4531,10487 4656,10237 4406,10237 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 5081,9612 L 5206,9862 5331,9612 5081,9612 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 5081,9612 L 5206,9862 5331,9612 5081,9612 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 5756,7918 L 5881,8168 6006,7918 5756,7918 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 5756,7918 L 5881,8168 6006,7918 5756,7918 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 6431,9155 L 6556,9405 6681,9155 6431,9155 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 6431,9155 L 6556,9405 6681,9155 6431,9155 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 9131,12854 L 9256,13104 9381,12854 9131,12854 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 9131,12854 L 9256,13104 9381,12854 9131,12854 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 9806,11677 L 9931,11927 10056,11677 9806,11677 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 9806,11677 L 9931,11927 10056,11677 9806,11677 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 10481,12110 L 10606,12360 10731,12110 10481,12110 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 10481,12110 L 10606,12360 10731,12110 10481,12110 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 11156,12278 L 11281,12528 11406,12278 11156,12278 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 11156,12278 L 11281,12528 11406,12278 11156,12278 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 12506,11989 L 12631,12239 12756,11989 12506,11989 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 12506,11989 L 12631,12239 12756,11989 12506,11989 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 13181,11269 L 13306,11519 13431,11269 13181,11269 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 13181,11269 L 13306,11519 13431,11269 13181,11269 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 13855,13455 L 13980,13705 14105,13455 13855,13455 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 13855,13455 L 13980,13705 14105,13455 13855,13455 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 14530,11161 L 14655,11411 14780,11161 14530,11161 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 14530,11161 L 14655,11411 14780,11161 14530,11161 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 15205,10740 L 15330,10990 15455,10740 15205,10740 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 15205,10740 L 15330,10990 15455,10740 15205,10740 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 17905,11737 L 18030,11987 18155,11737 17905,11737 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 17905,11737 L 18030,11987 18155,11737 17905,11737 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 19930,9420 L 20055,9670 20180,9420 19930,9420 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 19930,9420 L 20055,9670 20180,9420 19930,9420 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 20605,11509 L 20730,11759 20855,11509 20605,11509 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 20605,11509 L 20730,11759 20855,11509 20605,11509 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 21280,9996 L 21405,10246 21530,9996 21280,9996 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 21280,9996 L 21405,10246 21530,9996 21280,9996 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 21955,11593 L 22080,11843 22205,11593 21955,11593 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 21955,11593 L 22080,11843 22205,11593 21955,11593 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 22630,10836 L 22755,11086 22880,10836 22630,10836 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 22630,10836 L 22755,11086 22880,10836 22630,10836 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 23980,11341 L 24105,11591 24230,11341 23980,11341 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 23980,11341 L 24105,11591 24230,11341 23980,11341 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 25329,10080 L 25454,10330 25579,10080 25329,10080 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 25329,10080 L 25454,10330 25579,10080 25329,10080 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 27353,12770 L 27478,13020 27603,12770 27353,12770 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 27353,12770 L 27478,13020 27603,12770 27353,12770 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 28703,11089 L 28828,11339 28953,11089 28703,11089 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 28703,11089 L 28828,11339 28953,11089 28703,11089 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 30728,10836 L 30853,11086 30978,10836 30728,10836 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 30728,10836 L 30853,11086 30978,10836 30728,10836 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 31403,12194 L 31528,12444 31653,12194 31403,12194 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 31403,12194 L 31528,12444 31653,12194 31403,12194 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 32078,13791 L 32203,14041 32328,13791 32078,13791 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 32078,13791 L 32203,14041 32328,13791 32078,13791 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 33428,11665 L 33553,11915 33678,11665 33428,11665 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 33428,11665 L 33553,11915 33678,11665 33428,11665 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 34103,13840 L 34228,14090 34353,13840 34103,13840 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 34103,13840 L 34228,14090 34353,13840 34103,13840 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 34778,11593 L 34903,11843 35028,11593 34778,11593 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 34778,11593 L 34903,11843 35028,11593 34778,11593 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 37477,12578 L 37602,12828 37727,12578 37477,12578 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 37477,12578 L 37602,12828 37727,12578 37477,12578 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 40177,13695 L 40302,13945 40427,13695 40177,13695 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 40177,13695 L 40302,13945 40427,13695 40177,13695 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 40852,13191 L 40977,13441 41102,13191 40852,13191 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 40852,13191 L 40977,13441 41102,13191 40852,13191 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 44902,13107 L 45027,13357 45152,13107 44902,13107 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 44902,13107 L 45027,13357 45152,13107 44902,13107 Z"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 45577,13611 L 45702,13861 45827,13611 45577,13611 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 45577,13611 L 45702,13861 45827,13611 45577,13611 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 9256,11177 L 9931,9917 10606,12187 11281,7563 11956,7478 12631,8908"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 15330,10757 L 16005,13796 16680,8992"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 20055,8608 L 20730,4884 21405,7310 22080,6974 22755,4872"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 25454,8824 L 26128,10001"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 30853,10757 L 31528,11177 32203,12775"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 33553,10913 L 34228,13965 34903,11682 35578,7899"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d=""/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 40302,13784 L 40977,13280"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 42327,13952 L 43002,13952 43677,13952 44352,13952 45027,13292 45702,13736"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 3731,9814 L 3981,9814 3856,9564 3731,9814 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 3731,9814 L 3981,9814 3856,9564 3731,9814 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 9131,11302 L 9381,11302 9256,11052 9131,11302 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 9131,11302 L 9381,11302 9256,11052 9131,11302 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 9806,10042 L 10056,10042 9931,9792 9806,10042 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 9806,10042 L 10056,10042 9931,9792 9806,10042 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 10481,12312 L 10731,12312 10606,12062 10481,12312 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 10481,12312 L 10731,12312 10606,12062 10481,12312 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 11156,7688 L 11406,7688 11281,7438 11156,7688 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 11156,7688 L 11406,7688 11281,7438 11156,7688 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 11831,7603 L 12081,7603 11956,7353 11831,7603 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 11831,7603 L 12081,7603 11956,7353 11831,7603 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 12506,9033 L 12756,9033 12631,8783 12506,9033 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 12506,9033 L 12756,9033 12631,8783 12506,9033 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 13855,12816 L 14105,12816 13980,12566 13855,12816 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 13855,12816 L 14105,12816 13980,12566 13855,12816 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 15205,10882 L 15455,10882 15330,10632 15205,10882 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 15205,10882 L 15455,10882 15330,10632 15205,10882 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 15880,13921 L 16130,13921 16005,13671 15880,13921 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 15880,13921 L 16130,13921 16005,13671 15880,13921 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 16555,9117 L 16805,9117 16680,8867 16555,9117 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 16555,9117 L 16805,9117 16680,8867 16555,9117 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 17905,3399 L 18155,3399 18030,3149 17905,3399 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 17905,3399 L 18155,3399 18030,3149 17905,3399 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 19930,8733 L 20180,8733 20055,8483 19930,8733 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 19930,8733 L 20180,8733 20055,8483 19930,8733 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 20605,5009 L 20855,5009 20730,4759 20605,5009 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 20605,5009 L 20855,5009 20730,4759 20605,5009 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 21280,7435 L 21530,7435 21405,7185 21280,7435 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 21280,7435 L 21530,7435 21405,7185 21280,7435 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 21955,7099 L 22205,7099 22080,6849 21955,7099 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 21955,7099 L 22205,7099 22080,6849 21955,7099 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 22630,4997 L 22880,4997 22755,4747 22630,4997 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 22630,4997 L 22880,4997 22755,4747 22630,4997 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 23980,10630 L 24230,10630 24105,10381 23980,10630 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 23980,10630 L 24230,10630 24105,10381 23980,10630 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 25329,8949 L 25579,8949 25454,8699 25329,8949 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 25329,8949 L 25579,8949 25454,8699 25329,8949 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 26003,10126 L 26253,10126 26128,9876 26003,10126 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 26003,10126 L 26253,10126 26128,9876 26003,10126 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 27353,11891 L 27603,11891 27478,11641 27353,11891 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 27353,11891 L 27603,11891 27478,11641 27353,11891 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 28703,11218 L 28953,11218 28828,10968 28703,11218 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 28703,11218 L 28953,11218 28828,10968 28703,11218 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 30728,10882 L 30978,10882 30853,10632 30728,10882 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 30728,10882 L 30978,10882 30853,10632 30728,10882 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 31403,11302 L 31653,11302 31528,11052 31403,11302 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 31403,11302 L 31653,11302 31528,11052 31403,11302 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 32078,12900 L 32328,12900 32203,12650 32078,12900 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 32078,12900 L 32328,12900 32203,12650 32078,12900 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 33428,11038 L 33678,11038 33553,10788 33428,11038 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 33428,11038 L 33678,11038 33553,10788 33428,11038 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 34103,14090 L 34353,14090 34228,13840 34103,14090 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 34103,14090 L 34353,14090 34228,13840 34103,14090 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 34778,11807 L 35028,11807 34903,11557 34778,11807 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 34778,11807 L 35028,11807 34903,11557 34778,11807 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 35453,8024 L 35703,8024 35578,7774 35453,8024 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 35453,8024 L 35703,8024 35578,7774 35453,8024 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 37477,12408 L 37727,12408 37602,12158 37477,12408 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 37477,12408 L 37727,12408 37602,12158 37477,12408 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 38827,13321 L 39077,13321 38952,13071 38827,13321 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 38827,13321 L 39077,13321 38952,13071 38827,13321 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 40177,13909 L 40427,13909 40302,13659 40177,13909 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 40177,13909 L 40427,13909 40302,13659 40177,13909 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 40852,13405 L 41102,13405 40977,13155 40852,13405 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 40852,13405 L 41102,13405 40977,13155 40852,13405 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 42202,14077 L 42452,14077 42327,13827 42202,14077 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 42202,14077 L 42452,14077 42327,13827 42202,14077 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 42877,14077 L 43127,14077 43002,13827 42877,14077 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 42877,14077 L 43127,14077 43002,13827 42877,14077 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 43552,14077 L 43802,14077 43677,13827 43552,14077 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 43552,14077 L 43802,14077 43677,13827 43552,14077 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 44227,14077 L 44477,14077 44352,13827 44227,14077 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 44227,14077 L 44477,14077 44352,13827 44227,14077 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 44902,13417 L 45152,13417 45027,13167 44902,13417 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 44902,13417 L 45152,13417 45027,13167 44902,13417 Z"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 45577,13861 L 45827,13861 45702,13611 45577,13861 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 45577,13861 L 45827,13861 45702,13611 45577,13861 Z"/>
+ <text class="TextShape" transform="rotate(-69.9 1188 16345)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="1188" y="16345"><tspan fill="rgb(0,0,0)" stroke="none">King&apos;s Field 1994</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 1780 16568)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="1780" y="16568"><tspan fill="rgb(0,0,0)" stroke="none">King&apos;s Field II 1995</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 2429 16643)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="2429" y="16643"><tspan fill="rgb(0,0,0)" stroke="none">King&apos;s Field III 1996</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 3086 16692)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="3086" y="16692"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core 1997</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 2430 20347)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="2430" y="20347"><tspan fill="rgb(0,0,0)" stroke="none">ARMORED CORE PROJECT PHANTASMA 1997</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 4580 16295)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="4580" y="16295"><tspan fill="rgb(0,0,0)" stroke="none">Echo Night 1998</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 5075 16792)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="5075" y="16792"><tspan fill="rgb(0,0,0)" stroke="none">Shadow Tower 1998</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 4618 19899)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="4618" y="19899"><tspan fill="rgb(0,0,0)" stroke="none">ARMORED CORE MASTER OF ARENA 1999</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 6370 16941)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="6370" y="16941"><tspan fill="rgb(0,0,0)" stroke="none">ECHO NIGHT 2 1999</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 7072 16867)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="7072" y="16867"><tspan fill="rgb(0,0,0)" stroke="none">FRAME GRIDE 1999</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 7123 18583)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="7123" y="18583"><tspan fill="rgb(0,0,0)" stroke="none">SPRIGGAN -LUNAR VERSE- 1999</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 8404 16916)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="8404" y="16916"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core 2 2000</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 9296 16319)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="9296" y="16319"><tspan fill="rgb(0,0,0)" stroke="none">EverGrace 2000</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 8894 19278)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="8894" y="19278"><tspan fill="rgb(0,0,0)" stroke="none">The Adventures of Cookie &amp; Cream 2000</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 9832 18557)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="9832" y="18557"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core 2: Another Age 2001</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 11230 16568)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="11230" y="16568"><tspan fill="rgb(0,0,0)" stroke="none">King&apos;s Field 4 2001</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 11779 16916)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="11779" y="16916"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core 3 2002</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 12400 17065)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="12400" y="17065"><tspan fill="rgb(0,0,0)" stroke="none">Forever Kingdom 2002</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 13182 16767)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="13182" y="16767"><tspan fill="rgb(0,0,0)" stroke="none">Lost Kingdoms 2002</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 12925 19329)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="12925" y="19329"><tspan fill="rgb(0,0,0)" stroke="none">Murakumo: Renegade Mech Pursuit 2002</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 14170 17762)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="14170" y="17762"><tspan fill="rgb(0,0,0)" stroke="none">Otogi: Myth of Demons 2002</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 15126 16991)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="15126" y="16991"><tspan fill="rgb(0,0,0)" stroke="none">Lost Kingdoms II 2003</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 15384 18135)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="15384" y="18135"><tspan fill="rgb(0,0,0)" stroke="none">Otogi 2: immortal Warriors 2003</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 16213 17713)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="16213" y="17713"><tspan fill="rgb(0,0,0)" stroke="none">Shadow Tower: Abyss 2003</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 16762 18060)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="16762" y="18060"><tspan fill="rgb(0,0,0)" stroke="none">Silent Line: Armored Core 2003</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 17871 16867)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="17871" y="16867"><tspan fill="rgb(0,0,0)" stroke="none">Thousand Land 2003</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 18076 18159)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="18076" y="18159"><tspan fill="rgb(0,0,0)" stroke="none">Tenchu: Wrath of Heaven  2003</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 17873 20571)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="17873" y="20571"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core: Formula Front - Extreme Battle 2004</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 19616 17637)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="19616" y="17637"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core: Nexus 2004</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 20001 18433)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="20001" y="18433"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core: Nine Breaker 2004</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 21066 17363)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="21066" y="17363"><tspan fill="rgb(0,0,0)" stroke="none">Echo Night: Beyond 2004</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 22383 15599)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="22383" y="15599"><tspan fill="rgb(0,0,0)" stroke="none">Kuon 2004</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 22515 17091)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="22515" y="17091"><tspan fill="rgb(0,0,0)" stroke="none">Metal Wolf Chaos 2004</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 22918 17837)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="22918" y="17837"><tspan fill="rgb(0,0,0)" stroke="none">Tenchu: Fatal Shadows 2004</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 23874 17065)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="23874" y="17065"><tspan fill="rgb(0,0,0)" stroke="none">Adventure Player 2005</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 24122 18233)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="24122" y="18233"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core: Last Raven 2005</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 24617 18731)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="24617" y="18731"><tspan fill="rgb(0,0,0)" stroke="none">Tenchu: Time of the Assassins 2005</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 25735 17513)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="25735" y="17513"><tspan fill="rgb(0,0,0)" stroke="none">Yoshitsune Eiyuuden 2005</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 26627 16916)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="26627" y="16916"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core 4 2006</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 26542 19005)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="26542" y="19005"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core: Machine Side Box 2006</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 27950 16991)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="27950" y="16991"><tspan fill="rgb(0,0,0)" stroke="none">Enchanted Arms 2006</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 28336 17786)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="28336" y="17786"><tspan fill="rgb(0,0,0)" stroke="none">King&apos;s Field: Additional I 2006</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 28983 17861)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="28983" y="17861"><tspan fill="rgb(0,0,0)" stroke="none">King&apos;s Field: Additional II 2006</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 30282 16145)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="30282" y="16145"><tspan fill="rgb(0,0,0)" stroke="none">Tenchu Z 2006</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 30460 17513)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="30460" y="17513"><tspan fill="rgb(0,0,0)" stroke="none">Tenchu: Dark Secret 2006</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 31334 16967)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="31334" y="16967"><tspan fill="rgb(0,0,0)" stroke="none">Cookie &amp; Cream 2007</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 32226 16369)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="32226" y="16369"><tspan fill="rgb(0,0,0)" stroke="none">Iraroji VOW 2007</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 32213 18259)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="32213" y="18259"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core: For Answer 2008</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 33015 17910)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="33015" y="17910"><tspan fill="rgb(0,0,0)" stroke="none">Shadow Assault Tenchu 2008</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 33798 17613)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="33798" y="17613"><tspan fill="rgb(0,0,0)" stroke="none">3D Dot Game Heroes 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 34773 16792)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="34773" y="16792"><tspan fill="rgb(0,0,0)" stroke="none">Demon&apos;s Souls 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 34162 20323)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="34162" y="20323"><tspan fill="rgb(0,0,0)" stroke="none">Fuuun Shinsengumi Bakumatsuden Portable 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 35795 17687)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="35795" y="17687"><tspan fill="rgb(0,0,0)" stroke="none">Inugamike no Ichizoku 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 36225 18359)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="36225" y="18359"><tspan fill="rgb(0,0,0)" stroke="none">Tenchu: Shadow Assassins 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 37389 17015)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="37389" y="17015"><tspan fill="rgb(0,0,0)" stroke="none">Yatsu Hakamura 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 38172 16717)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="38172" y="16717"><tspan fill="rgb(0,0,0)" stroke="none">NINJA BLADE 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 38096 18781)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="38096" y="18781"><tspan fill="rgb(0,0,0)" stroke="none">Onore no shinzuru michi wo ike 2009</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 39667 16319)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="39667" y="16319"><tspan fill="rgb(0,0,0)" stroke="none">Dark Souls 2011</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 40116 16941)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="40116" y="16941"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core V 2012</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 40040 19005)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="40040" y="19005"><tspan fill="rgb(0,0,0)" stroke="none">Dark Souls: Artorias of the Abyss 2012</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 40923 18433)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="40923" y="18433"><tspan fill="rgb(0,0,0)" stroke="none">Steel Battalion: Heavy Armor 2012</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 41661 18259)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="41661" y="18259"><tspan fill="rgb(0,0,0)" stroke="none">Armored Core: Verdict Day 2013</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 42816 16941)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="42816" y="16941"><tspan fill="rgb(0,0,0)" stroke="none">DARK SOULS II 2014</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 43708 16345)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="43708" y="16345"><tspan fill="rgb(0,0,0)" stroke="none">Bloodborne 2015</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 43261 19427)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="43261" y="19427"><tspan fill="rgb(0,0,0)" stroke="none">Dark Souls II: Scholar of the First Sin 2015</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 44814 17015)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="44814" y="17015"><tspan fill="rgb(0,0,0)" stroke="none">DARK SOULS III 2016</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 45145 17961)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="45145" y="17961"><tspan fill="rgb(0,0,0)" stroke="none">Dark Souls: Remastered 2018</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 46508 16071)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="46508" y="16071"><tspan fill="rgb(0,0,0)" stroke="none">Deracine 2018</tspan></tspan></tspan></text>
+ <text class="TextShape" transform="rotate(-69.9 46377 18283)"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="282px" font-weight="400"><tspan class="TextPosition" x="46377" y="18283"><tspan fill="rgb(0,0,0)" stroke="none">Sekiro: Shadows Die Twice 2019</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1397" y="14086"><tspan fill="rgb(0,0,0)" stroke="none">0</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="12884"><tspan fill="rgb(0,0,0)" stroke="none">100</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="11683"><tspan fill="rgb(0,0,0)" stroke="none">200</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="10482"><tspan fill="rgb(0,0,0)" stroke="none">300</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="9280"><tspan fill="rgb(0,0,0)" stroke="none">400</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="8079"><tspan fill="rgb(0,0,0)" stroke="none">500</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="6878"><tspan fill="rgb(0,0,0)" stroke="none">600</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="5676"><tspan fill="rgb(0,0,0)" stroke="none">700</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="4475"><tspan fill="rgb(0,0,0)" stroke="none">800</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="1026" y="3274"><tspan fill="rgb(0,0,0)" stroke="none">900</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="841" y="2073"><tspan fill="rgb(0,0,0)" stroke="none">1000</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="459px" font-weight="400"><tspan class="TextPosition" x="18944" y="1091"><tspan fill="rgb(0,0,0)" stroke="none">FromSoftware release distances comparison from JP to US and EU</tspan></tspan></tspan></text>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-width="80" stroke-linejoin="round" d="M 27252,3004 L 28052,3004"/>
+ <path fill="rgb(255,211,32)" stroke="none" d="M 27546,2899 L 27652,3110 27757,2899 27546,2899 Z"/>
+ <path fill="none" stroke="rgb(255,211,32)" stroke-linejoin="round" d="M 27546,2899 L 27652,3110 27757,2899 27546,2899 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-width="80" stroke-linejoin="round" d="M 27252,3502 L 28052,3502"/>
+ <path fill="rgb(87,157,28)" stroke="none" d="M 27546,3608 L 27757,3608 27652,3397 27546,3608 Z"/>
+ <path fill="none" stroke="rgb(87,157,28)" stroke-linejoin="round" d="M 27546,3608 L 27757,3608 27652,3397 27546,3608 Z"/>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="28152" y="3124"><tspan fill="rgb(0,0,0)" stroke="none">jp_us</tspan></tspan></tspan></text>
+ <text class="TextShape"><tspan class="TextParagraph" font-family="Liberation Sans, sans-serif" font-size="353px" font-weight="400"><tspan class="TextPosition" x="28152" y="3622"><tspan fill="rgb(0,0,0)" stroke="none">jp_eu</tspan></tspan></tspan></text>
+</svg>
