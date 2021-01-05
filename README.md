@@ -5,8 +5,13 @@ This repository features several datasets about videogames developed and or publ
 Large portions of the data have been aggregated with the [diggr tools](https://github.com/diggr/) and edited manually thereafter. This research has received support from the DFG.
 
 This readme provides an overview of the data included in this dataset.
+The data includes the following items:
+1. FromSoftware Datatable
+2. FromSoftware Production Network based on Mobygames Release Data
+3. FromSoftware Release Timeline
+4. Various visualizations and charts created from the data.
 
-## FromSoftware Datatable
+## 1. FromSoftware Datatable
 
 ### current version from
 
@@ -71,3 +76,84 @@ moby_slug
 
 moby_title
 - title used on mobygames for a game
+
+## 2. FromSoftware Production Network based on Mobygames Release Data
+
+### current version from
+
+2020-10-05
+
+### filenames
+
+FromSoftware_ProductionNetwork_MobygamesReleaseBased20201005_nodes.csv
+FromSoftware_ProductionNetwork_MobygamesReleaseBased20201005_edges.csv
+
+### content summary
+
+Production network of companies involved in FromSoftware games according to the release data on Mobygames.com. Edges are based on contribution to the same game (collaboration network), including a distinction of node for different roles a company might take on, as well as the company location if available via Wikidata. The data was created with [diggr lemongrab](https://github.com/diggr/lemongrab) and edited manually in Gephi 0.9.2 to add statistical data, as well as to include several country data missing on Wikidata and a country based color hex code, following [this schema]()
+
+Or, in plain text:
+Country	Color | Hexcode
+Australia	| 800000
+France	| 7cfc00
+Germany	| 008000
+Greece	| d2b48c
+Hong Kong	| db7093
+Hungary	| 87cefa
+India	| ffa500
+Ireland	| 0000ff
+Italy	| 6b8e23
+Japan	| ff0000
+Malaysia	| ffc0cb
+Netherlands	| adff2f
+New Zealand	| d2691e
+People's Republic of China	| c71585
+Philippines	| ff7f50
+Poland	| 4682b4
+Russia	| 000080
+South Korea	| ff6347
+Spain	| 808000
+Sweden	| 483d8b
+Taiwan	| b22222
+Thailand	| ffdab9
+undefined	| ffffff
+United Kingdom	| 4169e1
+United States of America	| 708090
+
+## 3. FromSoftware Release Timeline
+
+### current version from
+
+2020-07-18
+
+### filenames
+
+fromsoft_release_release_timeline.html
+fromsoft_release_release_timeline.html.prov
+
+### content summary
+
+All available FromSoftware game releases in Japan (JP), Europe (EU) and North America (US) mapped on an interactive timeline with some additional information. The visualization was created with [diggr tulpa](https://github.com/diggr/tulpa). Provenance information is available, added with [diggr provit](https://github.com/diggr/provit).
+
+## 4. Various visualizations and charts created from the data
+
+1.
+2.
+
+# ARCHIVE (original data, etc.)
+
+## Original FromSoftware Production Network based on Mobygames Release Data
+
+### current version from
+
+2020-03-27
+
+### filenames
+
+company_network_FromSoftware.graphml
+company_network_FromSoftware.graphml.prov
+
+### content summary
+
+Original network data created with [diggr lemongrab](https://github.com/diggr/lemongrab) before further editing. Provenance information is available, added with [diggr provit](https://github.com/diggr/provit).
+
