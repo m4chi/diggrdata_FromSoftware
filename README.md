@@ -19,7 +19,7 @@ The data includes the following items:
 
 ### filename
 
-FromSoftware_Tulpa_DataTable_edited20210105.csv
+data/FromSoftware_Tulpa_DataTable_edited20210105.csv
 
 ### content summary
 
@@ -85,15 +85,15 @@ moby_title
 
 ### filenames
 
-FromSoftware_ProductionNetwork_MobygamesReleaseBased20201005_nodes.csv
+data/FromSoftware_ProductionNetwork_MobygamesReleaseBased20201005_nodes.csv
 
-FromSoftware_ProductionNetwork_MobygamesReleaseBased20201005_edges.csv
+data/FromSoftware_ProductionNetwork_MobygamesReleaseBased20201005_edges.csv
 
 ### content summary
 
 Production network of companies involved in FromSoftware games according to the release data on Mobygames.com. Edges are based on contribution to the same game (collaboration network), including a distinction of node for different roles a company might take on, as well as the company location if available via Wikidata. The data was created with [diggr lemongrab](https://github.com/diggr/lemongrab) and edited manually in Gephi 0.9.2 to add statistical data, as well as to include several country data missing on Wikidata and a country based color hex code, following this color schema:
 
-![this hex color schema](FromSoftCountryColorCodesTable.png)
+![this hex color schema](visualizations/FromSoftCountryColorCodesTable.png)
 
 ## 3. FromSoftware Release Timeline
 
@@ -103,9 +103,9 @@ Production network of companies involved in FromSoftware games according to the 
 
 ### filenames
 
-fromsoft_release_release_timeline.html
+visualizations/fromsoft_release_release_timeline.html
 
-fromsoft_release_release_timeline.html.prov
+visualizations/fromsoft_release_release_timeline.html.prov
 
 ### content summary
 
@@ -113,11 +113,11 @@ All available FromSoftware game releases in Japan (JP), Europe (EU) and North Am
 
 ## 4. Various visualizations and charts created from the data between October 2020 and December 2020
 
-1. [Headquarter Locations of Companies involved in FromSoftware games](FromSoftware_ReleaseAnalysis_CompanyLocations.svg)
-2. [Distribution of first releases by region](FromSoftware_ReleaseAnalysis_FirstReleaseCountryDistribution.svg)
-3. [Temporal Distance between first release in Japan and first release in the US and EU region](FromSoftware_ReleaseAnalysis_ReleaseDistanceJPEUUS.svg)
-4. [Per-game releases per region, stacked](FromSoftware_ReleaseAnalysis_ReleaseRegion.svg)
-5. [Role-based chart of company locations, divided into two groups, a.) Japan, b.) other countries](FromSoftware_Rolebased_companyCountries.svg)
+1. [Headquarter Locations of Companies involved in FromSoftware games](visualizations/FromSoftware_ReleaseAnalysis_CompanyLocations.svg)
+2. [Distribution of first releases by region](visualizations/FromSoftware_ReleaseAnalysis_FirstReleaseCountryDistribution.svg)
+3. [Temporal Distance between first release in Japan and first release in the US and EU region](visualizations/FromSoftware_ReleaseAnalysis_ReleaseDistanceJPEUUS.svg)
+4. [Per-game releases per region, stacked](visualizations/FromSoftware_ReleaseAnalysis_ReleaseRegion.svg)
+5. [Role-based chart of company locations, divided into two groups, a.) Japan, b.) other countries](visualizations/FromSoftware_Rolebased_companyCountries.svg)
 
 
 # ARCHIVE (original data, etc.)
@@ -130,9 +130,9 @@ All available FromSoftware game releases in Japan (JP), Europe (EU) and North Am
 
 ### filenames
 
-company_network_FromSoftware.graphml
+archive/company_network_FromSoftware.graphml
 
-company_network_FromSoftware.graphml.prov
+archive/company_network_FromSoftware.graphml.prov
 
 ### content summary
 
