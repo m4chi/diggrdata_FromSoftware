@@ -138,6 +138,11 @@ company_network_FromSoftware.graphml.prov
 
 Original network data created with [diggr lemongrab](https://github.com/diggr/lemongrab) before further editing. Provenance information is available, added with [diggr provit](https://github.com/diggr/provit).
 
+# Meta
+
+**License**
+[CC-BY 4.0](http://creativecommons.org/licenses/by/4.0)
+![license](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
 **Copyright**
 2021 Martin Roth [research@asobiba.de](mailto: research@asobiba.de)
