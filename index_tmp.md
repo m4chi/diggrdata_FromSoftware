@@ -21,8 +21,9 @@ Production network of companies involved in FromSoftware games according to the 
 
 ### 2.2. Release Timeline
 
-[Release timeline](visualizations/fromsoft_release_release_timeline.md)
-
+[Release Timeline](visualizations/fromsoft_release_release_timeline.html)
+ <a href="visualizations/fromsoft_release_release_timeline.html">Release Timeline</a> 
+[RT](http://htmlpreview.github.com/?https://github.com/m4chi/diggrdata_FromSoftware/blob/main/visualizations/fromsoft_release_release_timeline.html)
 
 All available FromSoftware game releases in Japan (JP), Europe (EU) and North America (US) mapped on an interactive timeline with some additional information. The visualization was created with [diggr tulpa](https://github.com/diggr/tulpa). Provenance information is available, added with [diggr provit](https://github.com/diggr/provit).
 
