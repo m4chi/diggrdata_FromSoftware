@@ -13,9 +13,8 @@ The data is used in my ongoing research project on videogame spatialization, and
 
 ### 1.2. FromSoftware Production Network based on Mobygames Release Data
 
-![FromSoftware Production Network, all collaborators](FromSoftware_ProductionNetwork_withroles_all.svg)
-
-![FromSoftware Production Network, limited collaborators](FromSoftware_ProductionNetwork_withroles_nopubldistrloc.svg)
+![FromSoftware Production Network, all collaborators](visualizations/FromSoftware_ProductionNetwork_withroles_all.svg)
+![FromSoftware Production Network, limited collaborators](visualizations/FromSoftware_ProductionNetwork_withroles_nopubldistrloc.svg)
 
 Production network of companies involved in FromSoftware games according to the release data on Mobygames.com. Edges are based on contribution to the same game (collaboration network), including a distinction of node for different roles a company might take on, as well as the company location if available via Wikidata. The data was created with [diggr lemongrab](https://github.com/diggr/lemongrab) and edited manually in Gephi 0.9.2 to add statistical data, as well as to include several country data missing on Wikidata and a country based color hex code, following this color schema:
 
