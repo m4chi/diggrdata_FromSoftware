@@ -8,7 +8,7 @@ The data is used in my ongoing research project on videogame spatialization, and
 
 ### 1.1. FromSoftware Collaborators per game per country
 
-<img src="visualizations/FromSoftware_ReleaseAnalysis_CompanyLocations.svg" width="2000" />
+![Headquarter Locations of Companies involved in FromSoftware games](visualizations/FromSoftware_ReleaseAnalysis_CompanyLocations.svg)
 
 ![Role-based chart of company locations, divided into two groups, a.) Japan, b.) other countries](visualizations/FromSoftware_Rolebased_companyCountries.svg)
 
