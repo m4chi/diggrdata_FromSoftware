@@ -8,7 +8,14 @@ The data is used in my ongoing research project on videogame spatialization, and
 
 ### 1.1. FromSoftware Collaborators per game per country
 
+![Headquarter Locations of Companies involved in FromSoftware games](visualizations/FromSoftware_ReleaseAnalysis_CompanyLocations.svg)
+![Role-based chart of company locations, divided into two groups, a.) Japan, b.) other countries](visualizations/FromSoftware_Rolebased_companyCountries.svg)
+
 ### 1.2. FromSoftware Production Network based on Mobygames Release Data
+
+![FromSoftware Production Network, all collaborators](FromSoftware_ProductionNetwork_withroles_all.svg)
+
+![FromSoftware Production Network, limited collaborators](FromSoftware_ProductionNetwork_withroles_nopubldistrloc.svg)
 
 Production network of companies involved in FromSoftware games according to the release data on Mobygames.com. Edges are based on contribution to the same game (collaboration network), including a distinction of node for different roles a company might take on, as well as the company location if available via Wikidata. The data was created with [diggr lemongrab](https://github.com/diggr/lemongrab) and edited manually in Gephi 0.9.2 to add statistical data, as well as to include several country data missing on Wikidata and a country based color hex code, following this color schema:
 
@@ -19,21 +26,15 @@ Production network of companies involved in FromSoftware games according to the 
 
 ### 2.1. Distribution Overview
 
+![Per-game releases per region, stacked](visualizations/FromSoftware_ReleaseAnalysis_ReleaseRegion.svg)
+![Distribution of first releases by region](visualizations/FromSoftware_ReleaseAnalysis_FirstReleaseCountryDistribution.svg)
+![Temporal Distance between first release in Japan and first release in the US and EU region](visualizations/FromSoftware_ReleaseAnalysis_ReleaseDistanceJPEUUS.svg)
+
 ### 2.2. Release Timeline
 
-[Release Timeline](visualizations/fromsoft_release_release_timeline.html)
- <a href="visualizations/fromsoft_release_release_timeline.html">Release Timeline</a> 
-[RT](http://htmlpreview.github.com/?https://github.com/m4chi/diggrdata_FromSoftware/blob/main/visualizations/fromsoft_release_release_timeline.html)
+[Interactive Release Timeline](visualizations/fromsoft_release_release_timeline.html)
 
 All available FromSoftware game releases in Japan (JP), Europe (EU) and North America (US) mapped on an interactive timeline with some additional information. The visualization was created with [diggr tulpa](https://github.com/diggr/tulpa). Provenance information is available, added with [diggr provit](https://github.com/diggr/provit).
-
-## 4. Various visualizations and charts created from the data between October 2020 and December 2020
-
-1. [Headquarter Locations of Companies involved in FromSoftware games](visualizations/FromSoftware_ReleaseAnalysis_CompanyLocations.svg)
-2. [Distribution of first releases by region](visualizations/FromSoftware_ReleaseAnalysis_FirstReleaseCountryDistribution.svg)
-3. [Temporal Distance between first release in Japan and first release in the US and EU region](visualizations/FromSoftware_ReleaseAnalysis_ReleaseDistanceJPEUUS.svg)
-4. [Per-game releases per region, stacked](visualizations/FromSoftware_ReleaseAnalysis_ReleaseRegion.svg)
-5. [Role-based chart of company locations, divided into two groups, a.) Japan, b.) other countries](visualizations/FromSoftware_Rolebased_companyCountries.svg)
 
 # Meta
 
