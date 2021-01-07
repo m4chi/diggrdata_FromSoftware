@@ -118,6 +118,8 @@ All available FromSoftware game releases in Japan (JP), Europe (EU) and North Am
 3. [Temporal Distance between first release in Japan and first release in the US and EU region](visualizations/FromSoftware_ReleaseAnalysis_ReleaseDistanceJPEUUS.svg)
 4. [Per-game releases per region, stacked](visualizations/FromSoftware_ReleaseAnalysis_ReleaseRegion.svg)
 5. [Role-based chart of company locations, divided into two groups, a.) Japan, b.) other countries](visualizations/FromSoftware_Rolebased_companyCountries.svg)
+6. [FromSoftware Production Network visualized with Gephi based on the FromSoftware Production Network dataset, including all roles](visualizations/FromSoftware_ProductionNetwork_withroles_all.svg)
+7. [FromSoftware Production Network visualized with Gephi based on the FromSoftware Production Network dataset, excluding roles pertaining to localization, distribution and local publishing](visualizations/FromSoftware_ProductionNetwork_withroles_nopubldistrloc.svg)
 
 
 # ARCHIVE (original data, etc.)
