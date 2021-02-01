@@ -32,50 +32,25 @@ The original data was created based on our curated dataset  with [diggr tulpa](h
 
 ### column description
 
-title
-- title of the game according to our curated list
-
-edited title	
-- title in roman letters only, for convenience reasons
-
-first_release_year
-- year of the first release of a game, used for sorting
-
-xx_releases (multiple columns)
-- number of releases for several release regions, including 
+- title: title of the game according to our curated list
+- edited title: title in roman letters only, for convenience reasons
+- first_release_year: year of the first release of a game, used for sorting
+- xx_releases (multiple columns): number of releases for several release regions, including 
   - AS (Asia)
   - AU (Australia)
   - EU (Europe)
   - JP (Japan)
   - KO (Korea)
   - US (North America).
-
-n_releases
-- number of releases in total
-
-columns named after countries (multiple columns)
-- number of companies contributing to a game having their headquarters in the respective country according to Wikidata
-  
-Non-Japan based companies
-- aggregate of companies with headquarters outside of Japan
-
-n_companies	
-- total number of companies
-
-platforms	
-- all platforms a game has been published for
-
-unknown
-- number of companies involved with unknown headquarter location
-
-moby_id	
-- id of the mobygames data on a game
-
-moby_slug	
-- slug of the mobygames data on a game
-
-moby_title
-- title used on mobygames for a game
+- n_releases: number of releases in total
+- columns named after countries (multiple columns): number of companies contributing to a game having their headquarters in the respective country according to Wikidata
+- Non-Japan based companies: aggregate of companies with headquarters outside of Japan
+- n_companies: total number of companies
+- platforms: all platforms a game has been published for
+- unknown: number of companies involved with unknown headquarter location
+- moby_id: id of the mobygames data on a game
+- moby_slug: slug of the mobygames data on a game
+- moby_title: title used on mobygames for a game
 
 ## 2. FromSoftware Production Network based on Mobygames Release Data
 
