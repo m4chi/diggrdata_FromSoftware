@@ -136,4 +136,4 @@ Original network data created with [diggr lemongrab](https://github.com/diggr/le
 ![license](https://i.creativecommons.org/l/by/4.0/80x15.png)
 
 **Copyright**
-2021 Martin Roth [research@asobiba.de](mailto: research@asobiba.de)
+2021 Martin Roth [research@asobiba.de](research@asobiba.de)
