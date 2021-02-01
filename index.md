@@ -25,11 +25,11 @@ The following figures depict the production networks of companies involved in Fr
 
 ![this hex color schema](visualizations/FromSoftCountryColorCodesTable.png)
 
-This network visualization shows all actors, meaning any companies in any role involved in producing a FromSoftware game.
+The following network visualization shows all actors, meaning any companies in any role involved in producing a FromSoftware game.
 
 [![FromSoftware Production Network, all collaborators](visualizations/FromSoftware_ProductionNetwork_withroles_all.svg)](visualizations/FromSoftware_ProductionNetwork_withroles_all.svg)
 
-This network visualization excludes the actors who take on functions needed when publishing a game outside of Japan, such as "localization."
+The following network visualization excludes the actors who take on functions needed when publishing a game outside of Japan, such as "localization."
 
 [![FromSoftware Production Network, limited collaborators](visualizations/FromSoftware_ProductionNetwork_withroles_nopubldistrloc.svg)](visualizations/FromSoftware_ProductionNetwork_withroles_nopubldistrloc.svg)
 
