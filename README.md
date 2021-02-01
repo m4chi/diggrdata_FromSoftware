@@ -131,6 +131,9 @@ Original network data created with [diggr lemongrab](https://github.com/diggr/le
 
 # Meta
 
+**Zenodo Repository Snapshots
+[![DOI](https://zenodo.org/badge/326400336.svg)](https://zenodo.org/badge/latestdoi/326400336)
+
 **License**
 [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0)
 ![license](https://i.creativecommons.org/l/by/4.0/80x15.png)
