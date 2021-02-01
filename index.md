@@ -2,7 +2,8 @@
 
 This site augments my publications on the spatialization of videogame production, distribution and reception in the case of the Japanese company FromSoftware.
 This research is currently published or accepted for publication as follows:
-Roth, Martin (ロート　マーティン). Accepted, 2021. テレビゲーム文化の空間的展開：FromSoftwareゲームの生産的・流通的展開とそれにおけるソフトな文化的境界線. [Replaying Japan](https://www.rcgs.jp/?page_id=200), Vol. 3.
+
+- Roth, Martin (ロート　マーティン). Accepted, 2021. テレビゲーム文化の空間的展開：FromSoftwareゲームの生産的・流通的展開とそれにおけるソフトな文化的境界線. [Replaying Japan](https://www.rcgs.jp/?page_id=200), Vol. 3.
 
 The site features interactive and non-interactive visualizations used for or resulting from my analysis of the data stored in the [diggrdata_FromSoftware repository](https://github.com/m4chi/diggrdata_FromSoftware). For more information, see the [README](README.md).
 The data is used in my ongoing research project on videogame spatialization, and will be updated and extended over time. For stable versions used in my research, please refer to the Zenodo snapshot specified in the respective research output.
