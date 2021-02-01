@@ -4,12 +4,12 @@ This repository features several datasets about videogames developed and or publ
 
 Large portions of the data have been aggregated with the [diggr tools](https://github.com/diggr/) and edited manually thereafter. This research has received support from the DFG.
 
-This readme provides an overview of the data included in this dataset.
-The data includes the following items:
+This readme provides an overview of the following data and visualizations included in this dataset.
 1. FromSoftware Datatable
 2. FromSoftware Production Network based on Mobygames Release Data
-3. FromSoftware Release Timeline
-4. Various visualizations and charts created from the data.
+3. FromSoftware Release Data
+4. FromSoftware Release Timeline
+5. Various visualizations and charts created from the data.
 
 ## 1. FromSoftware Datatable
 
@@ -70,7 +70,21 @@ Production network of companies involved in FromSoftware games according to the 
 
 ![this hex color schema](visualizations/FromSoftCountryColorCodesTable.png)
 
-## 3. FromSoftware Release Timeline
+## 3. FromSoftware Release Data
+
+### current version from
+
+2020-03-17
+
+### filename
+
+data/FromSoftware_releases.json
+
+### content summary
+
+This dataset contains data on the dates and release regions of all FromSoftware game releases found in the Mobygames data, with additional information taken from GameFAQs. The data was analyzed and visualized as below (5.) using with Python and Libre Office Calc.
+
+## 4. FromSoftware Release Timeline
 
 ### current version from
 
@@ -86,7 +100,7 @@ visualizations/fromsoft_release_release_timeline.html.prov
 
 All available FromSoftware game releases in Japan (JP), Europe (EU) and North America (US) mapped on an interactive timeline with some additional information. The visualization was created with [diggr tulpa](https://github.com/diggr/tulpa). Provenance information is available, added with [diggr provit](https://github.com/diggr/provit).
 
-## 4. Various visualizations and charts created from the data between October 2020 and December 2020
+## 5. Various visualizations and charts created from the data between October 2020 and December 2020
 
 1. [Headquarter Locations of Companies involved in FromSoftware games](visualizations/FromSoftware_ReleaseAnalysis_CompanyLocations.svg)
 2. [Distribution of first releases by region](visualizations/FromSoftware_ReleaseAnalysis_FirstReleaseCountryDistribution.svg)
