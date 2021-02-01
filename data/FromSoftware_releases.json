@@ -1,0 +1,2484 @@
+{
+    "3D Dot Game Heroes": {
+        "JP": [
+            {
+                "title": "3D Dot Game Heroes",
+                "date": "2009-11-05T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "3D Dot Game Heroes",
+                "date": "2009-11-05T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "3D Dot Game Heroes",
+                "date": "2009-11-06T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "3D Dot Game Heroes",
+                "date": "2010-05-11T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "3D Dot Game Heroes",
+                "date": "2010-05-13T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "3D Dot Game Heroes",
+                "date": "2010-05-14T00:00:00"
+            }
+        ]
+    },
+    "ARMORED CORE MASTER OF ARENA": {
+        "JP": [
+            {
+                "title": "Armored Core: Master of Arena",
+                "date": "1999-02-04T00:00:00"
+            },
+            {
+                "title": "Armored Core: Master of Arena (PlayStation the Best)",
+                "date": "1999-12-02T00:00:00"
+            },
+            {
+                "title": "Armored Core: Master of Arena (PSOne Books)",
+                "date": "2002-01-01T00:00:00"
+            },
+            {
+                "title": "Armored Core: Master of Arena",
+                "date": "2007-11-28T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core: Master of Arena",
+                "date": "2000-02-29T00:00:00"
+            }
+        ]
+    },
+    "ARMORED CORE PROJECT PHANTASMA": {
+        "JP": [
+            {
+                "title": "Armored Core: Project Phantasma",
+                "date": "1997-12-04T00:00:00"
+            },
+            {
+                "title": "Armored Core: Project Phantasma (PlayStation the Best)",
+                "date": "1998-11-19T00:00:00"
+            },
+            {
+                "title": "Armored Core: Project Phantasma (PSOne Books)",
+                "date": "2001-11-29T00:00:00"
+            },
+            {
+                "title": "Armored Core: Project Phantasma",
+                "date": "2007-09-27T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core: Project Phantasma",
+                "date": "1998-09-30T00:00:00"
+            }
+        ]
+    },
+    "Adventure Player": {
+        "JP": [
+            {
+                "title": "Adventure Player",
+                "date": "2005-06-30T00:00:00"
+            }
+        ]
+    },
+    "Armored Core": {
+        "JP": [
+            {
+                "title": "Armored Core",
+                "date": "1997-07-10T00:00:00"
+            },
+            {
+                "title": "Armored Core (PlayStation the Best)",
+                "date": "1998-05-28T00:00:00"
+            },
+            {
+                "title": "Armored Core (PSOne Books)",
+                "date": "2001-11-15T00:00:00"
+            },
+            {
+                "title": "Armored Core",
+                "date": "2007-07-26T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core",
+                "date": "1997-10-31T00:00:00"
+            },
+            {
+                "title": "Armored Core (Reprint)",
+                "date": "2000"
+            },
+            {
+                "title": "Armored Core",
+                "date": "2015-03-24T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core",
+                "date": "1998-07-01T00:00:00"
+            }
+        ]
+    },
+    "Armored Core 2": {
+        "JP": [
+            {
+                "title": "Armored Core 2",
+                "date": "2000-08-03T00:00:00"
+            },
+            {
+                "title": "Armored Core 2 (PlayStation 2 the Best)",
+                "date": "2002-08-01T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core 2",
+                "date": "2000-10-24T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core 2",
+                "date": "2001-03-23T00:00:00"
+            }
+        ]
+    },
+    "Armored Core 2: Another Age": {
+        "JP": [
+            {
+                "title": "Armored Core 2: Another Age",
+                "date": "2001-04-12T00:00:00"
+            },
+            {
+                "title": "Armored Core 2: Another Age (PlayStation 2 the Best)",
+                "date": "2002-11-07T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core 2: Another Age",
+                "date": "2001-08-20T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core 2: Another Age",
+                "date": "2002-09-27T00:00:00"
+            }
+        ]
+    },
+    "Armored Core 3": {
+        "JP": [
+            {
+                "title": "Armored Core 3",
+                "date": "2002-04-04T00:00:00"
+            },
+            {
+                "title": "Armored Core 3 (PlayStation 2 the Best)",
+                "date": "2003-11-06T00:00:00"
+            },
+            {
+                "title": "Armored Core 3 Portable",
+                "date": "2009-07-30T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core 3",
+                "date": "2002-09-05T00:00:00"
+            },
+            {
+                "title": "Armored Core 3 Portable",
+                "date": "2009-10-21T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core 3",
+                "date": "2003-05-30T00:00:00"
+            },
+            {
+                "title": "Armored Core 3 Portable",
+                "date": "2010-05-19T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Armored Core 3 Portable",
+                "date": "2009-07-30T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Armored Core 3 Portable",
+                "date": "2009-07-30T00:00:00"
+            }
+        ]
+    },
+    "Armored Core 4": {
+        "JP": [
+            {
+                "title": "Armored Core 4",
+                "date": "2006-12-21T00:00:00"
+            },
+            {
+                "title": "Armored Core 4 (The Best Collection)",
+                "date": "2008-01-10T00:00:00"
+            },
+            {
+                "title": "Armored Core 4",
+                "date": "2007-03-22T00:00:00"
+            },
+            {
+                "title": "Armored Core 4 (Platinum Collection)",
+                "date": "2008-01-10T00:00:00"
+            },
+            {
+                "title": "Armored Core 4",
+                "date": "2009-09-08T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core 4",
+                "date": "2007-03-20T00:00:00"
+            },
+            {
+                "title": "Armored Core 4",
+                "date": "2007-03-20T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Armored Core 4",
+                "date": "2007-06-16T00:00:00"
+            },
+            {
+                "title": "Armored Core 4",
+                "date": "2007-03-29T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core 4",
+                "date": "2007-06-22T00:00:00"
+            },
+            {
+                "title": "Armored Core 4",
+                "date": "2007-06-22T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Armored Core 4",
+                "date": "2007-06-28T00:00:00"
+            },
+            {
+                "title": "Armored Core 4",
+                "date": "2007-06-28T00:00:00"
+            }
+        ]
+    },
+    "Armored Core V": {
+        "JP": [
+            {
+                "title": "Armored Core V",
+                "date": "2012-01-26T00:00:00"
+            },
+            {
+                "title": "Armored Core V",
+                "date": "2012-01-26T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core V",
+                "date": "2012-03-20T00:00:00"
+            },
+            {
+                "title": "Armored Core V",
+                "date": "2012-03-20T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Armored Core V",
+                "date": "2012-03-22T00:00:00"
+            },
+            {
+                "title": "Armored Core V",
+                "date": "2012-03-22T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core V",
+                "date": "2012-03-23T00:00:00"
+            },
+            {
+                "title": "Armored Core V",
+                "date": "2012-03-23T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Armored Core V",
+                "date": "2012-04-02T00:00:00"
+            },
+            {
+                "title": "Armored Core V",
+                "date": "2012-04-02T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Armored Core V",
+                "date": "2012-04-03T00:00:00"
+            },
+            {
+                "title": "Armored Core V",
+                "date": "2012-04-03T00:00:00"
+            }
+        ]
+    },
+    "Armored Core: For Answer": {
+        "JP": [
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-03-19T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer (Platinum Collection)",
+                "date": "2009-01-08T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2009-10-13T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-03-19T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer (PlayStation 3 the Best)",
+                "date": "2008-12-18T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-03-28T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-04-12T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer (BigHit Series)",
+                "date": "2009-07-28T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-09-16T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-09-16T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-11-27T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-11-27T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-11-28T00:00:00"
+            },
+            {
+                "title": "Armored Core: For Answer",
+                "date": "2008-11-28T00:00:00"
+            }
+        ]
+    },
+    "Armored Core: Formula Front - Extreme Battle": {
+        "JP": [
+            {
+                "title": "Armored Core: Formula Front",
+                "date": "2005-03-03T00:00:00"
+            },
+            {
+                "title": "Armored Core: Formula Front",
+                "date": "2004-12-12T00:00:00"
+            },
+            {
+                "title": "Armored Core: Formula Front International (PSP the Best)",
+                "date": "2005-11-17T00:00:00"
+            },
+            {
+                "title": "Armored Core: Formula Front International (PSP the Best)",
+                "date": "2009-11-01T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core: Formula Front",
+                "date": "Canceled"
+            },
+            {
+                "title": "Armored Core: Formula Front - Extreme Battle",
+                "date": "2005-12-15T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Armored Core: Formula Front - Extreme Battle",
+                "date": "2005-11-15T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core: Formula Front - Extreme Battle",
+                "date": "2006-03-03T00:00:00"
+            }
+        ]
+    },
+    "Armored Core: Last Raven": {
+        "JP": [
+            {
+                "title": "Armored Core: Last Raven Portable",
+                "date": "2010-03-04T00:00:00"
+            },
+            {
+                "title": "Armored Core: Last Raven",
+                "date": "2005-08-04T00:00:00"
+            },
+            {
+                "title": "Armored Core: Last Raven (PlayStation 2 the Best)",
+                "date": "2006-11-30T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Armored Core: Last Raven Portable",
+                "date": "2010-03-04T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Armored Core: Last Raven Portable",
+                "date": "2010-03-05T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core: Last Raven Portable",
+                "date": "2010-05-03T00:00:00"
+            },
+            {
+                "title": "Armored Core: Last Raven",
+                "date": "2006-06-13T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core: Last Raven Portable",
+                "date": "2010-07-14T00:00:00"
+            },
+            {
+                "title": "Armored Core: Last Raven",
+                "date": "2006-10-06T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Armored Core: Last Raven",
+                "date": "2006-10-26T00:00:00"
+            }
+        ]
+    },
+    "Armored Core: Machine Side Box": {},
+    "Armored Core: Nexus": {
+        "JP": [
+            {
+                "title": "Armored Core: Nexus",
+                "date": "2004-03-18T00:00:00"
+            },
+            {
+                "title": "Armored Core: Nexus (PlayStation 2 the Best)",
+                "date": "2004-08-05T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core: Nexus",
+                "date": "2004-09-28T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core: Nexus",
+                "date": "2006-04-13T00:00:00"
+            }
+        ]
+    },
+    "Armored Core: Nine Breaker": {
+        "JP": [
+            {
+                "title": "Armored Core: Nine Breaker",
+                "date": "2004-10-28T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Armored Core: Nine Breaker",
+                "date": "2005-09-13T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core: Nine Breaker",
+                "date": "2006-05-05T00:00:00"
+            }
+        ]
+    },
+    "Armored Core: Verdict Day": {
+        "US": [
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-24T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-10-11T00:00:00"
+            },
+            {
+                "title": "Armored Core Verdict Day (Club Namco Edition)",
+                "date": "2013-09-24T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-24T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-24T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-24T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day (Collector's Edition)",
+                "date": "2013-09-24T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-24T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day (Collector's Edition)",
+                "date": "2013-09-24T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-24T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-10-11T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-24T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-26T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-10-11T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-25T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-26T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-26T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day (Collector's Edition)",
+                "date": "2013-09-26T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-26T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day (Collector's Edition)",
+                "date": "2013-09-26T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-27T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-10-11T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-27T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day",
+                "date": "2013-09-27T00:00:00"
+            },
+            {
+                "title": "Armored Core: Verdict Day (C03 Pack)",
+                "date": "2013-09-27T00:00:00"
+            }
+        ]
+    },
+    "Bloodborne": {
+        "US": [
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-24T00:00:00"
+            },
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-24T00:00:00"
+            },
+            {
+                "title": "Bloodborne (Collector's Edition)",
+                "date": "2015-03-24T00:00:00"
+            },
+            {
+                "title": "Bloodborne: Complete Edition",
+                "date": "2015-11-24T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-24T00:00:00"
+            },
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-24T00:00:00"
+            },
+            {
+                "title": "Bloodborne: The Old Hunters Edition",
+                "date": "2015-11-25T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-25T00:00:00"
+            },
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-25T00:00:00"
+            },
+            {
+                "title": "Bloodborne (Collector's Edition)",
+                "date": "2015-03-25T00:00:00"
+            },
+            {
+                "title": "Bloodborne (Nightmare Edition)",
+                "date": "2015-03-25T00:00:00"
+            },
+            {
+                "title": "Bloodborne: Game of the Year Edition",
+                "date": "2015-11-25T00:00:00"
+            },
+            {
+                "title": "Bloodborne: Game of the Year Edition",
+                "date": "2015-11-25T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-26T00:00:00"
+            },
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-26T00:00:00"
+            },
+            {
+                "title": "Bloodborne (First Print Limited Edition)",
+                "date": "2015-03-26T00:00:00"
+            },
+            {
+                "title": "Bloodborne: The Old Hunters Edition",
+                "date": "2015-12-03T00:00:00"
+            },
+            {
+                "title": "Bloodborne: The Old Hunters Edition",
+                "date": "2015-12-03T00:00:00"
+            },
+            {
+                "title": "Bloodborne: The Old Hunters Edition (Limited Edition)",
+                "date": "2015-12-03T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-27T00:00:00"
+            },
+            {
+                "title": "Bloodborne",
+                "date": "2015-03-27T00:00:00"
+            },
+            {
+                "title": "Bloodborne (Collector's Edition)",
+                "date": "2015-03-27T00:00:00"
+            },
+            {
+                "title": "Bloodborne (Nightmare Edition)",
+                "date": "2015-03-27T00:00:00"
+            },
+            {
+                "title": "Bloodborne: Game of the Year Edition",
+                "date": "2015-11-27T00:00:00"
+            },
+            {
+                "title": "Bloodborne: Game of the Year Edition",
+                "date": "2015-11-27T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Bloodborne: The Old Hunters Edition",
+                "date": "2015-11-25T00:00:00"
+            },
+            {
+                "title": "Bloodborne: The Old Hunters Edition (2017 New Year Special Edition)",
+                "date": "2017-01-23T00:00:00"
+            }
+        ]
+    },
+    "Cookie & Cream": {
+        "JP": [
+            {
+                "title": "KuriKuri DS: Otasuke Island",
+                "date": "2007-06-28T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Cookie & Cream",
+                "date": "2007-07-02T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Cookie & Cream",
+                "date": "2007-10-05T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Cookie & Cream",
+                "date": "2007-10-18T00:00:00"
+            }
+        ]
+    },
+    "DARK SOULS II": {
+        "US": [
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-11T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Black Armor Edition)",
+                "date": "2014-03-11T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collector's Edition)",
+                "date": "2014-03-11T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-11T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-11T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Black Armor Edition)",
+                "date": "2014-03-11T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collector's Edition)",
+                "date": "2014-03-11T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Dark Souls II (English and Chinese Version)",
+                "date": "2014-03-11T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (English and Chinese Version)",
+                "date": "2014-03-11T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Black Armor Edition)",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collector's Edition)",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Black Armor Edition)",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collector's Edition)",
+                "date": "2014-03-13T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collectors Edition)",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-06-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collectors Edition)",
+                "date": "2014-03-13T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-06-12T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-14T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Black Armor Edition)",
+                "date": "2014-03-14T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collector's Edition)",
+                "date": "2014-03-14T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-14T00:00:00"
+            },
+            {
+                "title": "Dark Souls II",
+                "date": "2014-03-14T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Black Armor Edition)",
+                "date": "2014-03-14T00:00:00"
+            },
+            {
+                "title": "Dark Souls II (Collector's Edition)",
+                "date": "2014-03-14T00:00:00"
+            }
+        ]
+    },
+    "DARK SOULS III": {
+        "JP": [
+            {
+                "title": "Dark Souls III",
+                "date": "2016-03-24T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-03-24T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-03-24T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-03-24T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Collector's Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Day One Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Deluxe Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Collector's Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Day One Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Deluxe Edition)",
+                "date": "2016-04-12T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Collector's Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Deluxe Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Prestige Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Apocalypse Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Collector's Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Deluxe Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Prestige Edition)",
+                "date": "2016-04-12T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Collector's Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Deluxe Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Collector's Edition)",
+                "date": "2016-04-12T00:00:00"
+            },
+            {
+                "title": "Dark Souls III (Deluxe Edition)",
+                "date": "2016-04-12T00:00:00"
+            }
+        ]
+    },
+    "Dark Souls": {
+        "JP": [
+            {
+                "title": "Dark Souls",
+                "date": "2011-09-22T00:00:00"
+            },
+            {
+                "title": "Dark Souls (with Artorias of the Abyss Edition)",
+                "date": "2012-10-25T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-04T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Limited Edition)",
+                "date": "2011-10-04T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Greatest Hits)",
+                "date": "2013-03-25T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-04T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Limited Edition)",
+                "date": "2011-10-04T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2014-03-11T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-06T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Limited Edition)",
+                "date": "2011-10-06T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Prepare to Die Edition)",
+                "date": "2012-10-26T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-06T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Limited Edition)",
+                "date": "2011-10-06T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Prepare to Die Edition)",
+                "date": "2012-10-26T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2013-03-12T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Limited Edition)",
+                "date": "2011-10-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Prepare to Die Edition)",
+                "date": "2012-10-26T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Essentials)",
+                "date": "2014-08-01T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Limited Edition)",
+                "date": "2011-10-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Prepare to Die Edition)",
+                "date": "2012-10-26T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2013-03-12T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-18T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Prepare to Die Edition)",
+                "date": "2012-10-26T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2011-10-18T00:00:00"
+            },
+            {
+                "title": "Dark Souls",
+                "date": "2013-03-12T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Dark Souls (English & Chinese language Version)",
+                "date": "2011-10-19T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Prepare to Die Edition)",
+                "date": "2012-10-25T00:00:00"
+            },
+            {
+                "title": "Dark Souls (English & Chinese language Version)",
+                "date": "2011-10-19T00:00:00"
+            },
+            {
+                "title": "Dark Souls (Prepare to Die Edition)",
+                "date": "2012-10-25T00:00:00"
+            }
+        ]
+    },
+    "Dark Souls II: Scholar of the First Sin": {
+        "EU": [
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-02T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-07T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-07T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-09T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-09T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-09T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-04-09T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-02-05T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-02-05T00:00:00"
+            },
+            {
+                "title": "Dark Souls II: Scholar of the First Sin",
+                "date": "2015-02-05T00:00:00"
+            }
+        ]
+    },
+    "Dark Souls: Artorias of the Abyss": {
+        "US": [
+            {
+                "title": "Dark Souls: Artorias of the Abyss",
+                "date": "2012-10-23T00:00:00"
+            },
+            {
+                "title": "Dark Souls: Artorias of the Abyss",
+                "date": "2012-10-23T00:00:00"
+            }
+        ]
+    },
+    "Dark Souls: Remastered": {},
+    "Demon's Souls": {
+        "JP": [
+            {
+                "title": "Demon's Souls",
+                "date": "2009-02-05T00:00:00"
+            },
+            {
+                "title": "Demon's Souls (PlayStation 3 the Best)",
+                "date": "2010-02-25T00:00:00"
+            },
+            {
+                "title": "Demon's Souls (PlayStation 3 the Best)",
+                "date": "2013-09-18T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Demon's Souls",
+                "date": "2009-02-26T00:00:00"
+            },
+            {
+                "title": "Demon's Souls (PlayStation 3 the Best)",
+                "date": "2010-02-24T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Demon's Souls",
+                "date": "2009-04-28T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Demon's Souls",
+                "date": "2009-10-06T00:00:00"
+            },
+            {
+                "title": "Demon's Souls (Deluxe Edition)",
+                "date": "2009-10-06T00:00:00"
+            },
+            {
+                "title": "Demon's Souls (Greatest Hits)",
+                "date": "2010-09-28T00:00:00"
+            },
+            {
+                "title": "Demon's Souls",
+                "date": "2013-01-08T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Demon's Souls",
+                "date": "2010-06-23T00:00:00"
+            },
+            {
+                "title": "Demon's Souls (Black Phantom Edition)",
+                "date": "2010-06-23T00:00:00"
+            },
+            {
+                "title": "Demon's Souls",
+                "date": "2013-01-23T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Demon's Souls (Black Phantom Edition)",
+                "date": "2010-06-25T00:00:00"
+            },
+            {
+                "title": "Demon's Souls",
+                "date": "2010-08-20T00:00:00"
+            },
+            {
+                "title": "Demon's Souls",
+                "date": "2013-01-23T00:00:00"
+            },
+            {
+                "title": "Demon's Souls (Essentials)",
+                "date": "2014-08-01T00:00:00"
+            }
+        ]
+    },
+    "Deracine": {},
+    "ECHO NIGHT\uff032 \u7720\u308a\u306e\u652f\u914d\u8005": {
+        "JP": [
+            {
+                "title": "Echo Night #2: Nemuri no Shihaisha",
+                "date": "1999-08-05T00:00:00"
+            },
+            {
+                "title": "Echo Night #2: Nemuri no Shihaisha (PSOne Books)",
+                "date": "2001-11-29T00:00:00"
+            },
+            {
+                "title": "Echo Night #2: Nemuri no Shihaisha",
+                "date": "2007-10-10T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Echo Night 2",
+                "date": "Canceled"
+            }
+        ]
+    },
+    "Echo Night": {
+        "JP": [
+            {
+                "title": "Echo Night",
+                "date": "1998-08-13T00:00:00"
+            },
+            {
+                "title": "Echo Night (PlayStation the Best)",
+                "date": "1999-06-03T00:00:00"
+            },
+            {
+                "title": "Echo Night (PSOne Books)",
+                "date": "2001-11-15T00:00:00"
+            },
+            {
+                "title": "Echo Night",
+                "date": "2007-08-30T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Echo Night",
+                "date": "1999-07-31T00:00:00"
+            },
+            {
+                "title": "Echo Night",
+                "date": "2015-03-17T00:00:00"
+            }
+        ]
+    },
+    "Echo Night: Beyond": {
+        "JP": [
+            {
+                "title": "Nebula: Echo Night",
+                "date": "2004-01-22T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Echo Night Beyond",
+                "date": "2004-07-27T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Echo Night Beyond",
+                "date": "2005-08-26T00:00:00"
+            }
+        ]
+    },
+    "Enchanted Arms": {
+        "AS": [
+            {
+                "title": "Enchant Arm",
+                "date": "2007-01-23T00:00:00"
+            },
+            {
+                "title": "[eM] -eNCHANT arM-",
+                "date": "2006-06-29T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Enchant Arm",
+                "date": "2007-01-25T00:00:00"
+            },
+            {
+                "title": "Enchant Arm (PlayStation 3 the Best)",
+                "date": "2008-07-03T00:00:00"
+            },
+            {
+                "title": "[eM] -eNCHANT arM-",
+                "date": "2006-01-12T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Enchanted Arms",
+                "date": "2007-03-22T00:00:00"
+            },
+            {
+                "title": "Enchanted Arms",
+                "date": "2006-09-01T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Enchanted Arms",
+                "date": "2007-03-23T00:00:00"
+            },
+            {
+                "title": "Enchanted Arms",
+                "date": "2006-09-08T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Enchanted Arms",
+                "date": "2007-04-03T00:00:00"
+            },
+            {
+                "title": "Enchanted Arms",
+                "date": "2006-08-29T00:00:00"
+            },
+            {
+                "title": "Enchanted Arms (w/Graphic Novel)",
+                "date": "2006-08-29T00:00:00"
+            }
+        ]
+    },
+    "EverGrace": {
+        "JP": [
+            {
+                "title": "Evergrace",
+                "date": "2000-04-27T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Evergrace",
+                "date": "2000-10-24T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Evergrace",
+                "date": "2001-03-30T00:00:00"
+            }
+        ]
+    },
+    "FRAME GRIDE": {
+        "JP": [
+            {
+                "title": "Frame Gride",
+                "date": "1999-07-15T00:00:00"
+            }
+        ]
+    },
+    "Forever Kingdom": {
+        "JP": [
+            {
+                "title": "Evergrace II",
+                "date": "2001-06-21T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Forever Kingdom",
+                "date": "2002-01-21T00:00:00"
+            }
+        ]
+    },
+    "Fuuun Shinsengumi Bakumatsuden Portable": {
+        "JP": [
+            {
+                "title": "Fuuun Shinsengumi Bakumatsuden Portable",
+                "date": "2009-12-10T00:00:00"
+            }
+        ]
+    },
+    "Inugamike no Ichizoku": {
+        "JP": [
+            {
+                "title": "Inugamike no Ichizoku",
+                "date": "2009-01-22T00:00:00"
+            }
+        ]
+    },
+    "King's Field": {
+        "JP": [
+            {
+                "title": "King's Field: Dark Side Box",
+                "date": "2007-01-25T00:00:00"
+            },
+            {
+                "title": "King's Field",
+                "date": "1994-12-16T00:00:00"
+            },
+            {
+                "title": "King's Field (PSOne Books)",
+                "date": "2001-11-15T00:00:00"
+            },
+            {
+                "title": "King's Field",
+                "date": "2007-07-26T00:00:00"
+            }
+        ]
+    },
+    "King's Field 4": {
+        "JP": [
+            {
+                "title": "King's Field: Dark Side Box",
+                "date": "2007-01-25T00:00:00"
+            },
+            {
+                "title": "King's Field IV",
+                "date": "2001-10-04T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "King's Field: The Ancient City",
+                "date": "2002-03-25T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "King's Field IV",
+                "date": "2003-03-28T00:00:00"
+            }
+        ]
+    },
+    "King's Field II": {
+        "JP": [
+            {
+                "title": "King's Field: Dark Side Box",
+                "date": "2007-01-25T00:00:00"
+            },
+            {
+                "title": "King's Field II",
+                "date": "1995-07-21T00:00:00"
+            },
+            {
+                "title": "King's Field II (PlayStation the Best)",
+                "date": "1996-08-09T00:00:00"
+            },
+            {
+                "title": "King's Field II (PSOne Books)",
+                "date": "2001-11-29T00:00:00"
+            },
+            {
+                "title": "King's Field II",
+                "date": "2007-08-30T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "King's Field (Long Box)",
+                "date": "1995-12-31T00:00:00"
+            },
+            {
+                "title": "King's Field",
+                "date": "1996-02-01T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "King's Field",
+                "date": "1996"
+            }
+        ]
+    },
+    "King's Field III": {
+        "JP": [
+            {
+                "title": "King's Field: Dark Side Box",
+                "date": "2007-01-25T00:00:00"
+            },
+            {
+                "title": "King's Field III",
+                "date": "1996-06-21T00:00:00"
+            },
+            {
+                "title": "King's Field III (Power Completist)",
+                "date": "1996"
+            },
+            {
+                "title": "King's Field III (PlayStation the Best)",
+                "date": "1998-09-23T00:00:00"
+            },
+            {
+                "title": "King's Field III (PSOne Books)",
+                "date": "2002-01-01T00:00:00"
+            },
+            {
+                "title": "King's Field III",
+                "date": "2007-10-10T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "King's Field II",
+                "date": "1996-10-31T00:00:00"
+            },
+            {
+                "title": "King's Field II",
+                "date": "TBA"
+            }
+        ]
+    },
+    "King's Field: Additional I": {
+        "JP": [
+            {
+                "title": "King's Field: Dark Side Box",
+                "date": "2007-01-25T00:00:00"
+            },
+            {
+                "title": "King's Field: Additional I",
+                "date": "2006-07-20T00:00:00"
+            },
+            {
+                "title": "King's Field: Additional 1",
+                "date": "2009-11-01T00:00:00"
+            }
+        ]
+    },
+    "King's Field: Additional II": {
+        "JP": [
+            {
+                "title": "King's Field: Dark Side Box",
+                "date": "2007-01-25T00:00:00"
+            },
+            {
+                "title": "King's Field: Additional II",
+                "date": "2006-08-24T00:00:00"
+            },
+            {
+                "title": "King's Field: Additional II",
+                "date": "2009-11-01T00:00:00"
+            }
+        ]
+    },
+    "Kuon": {
+        "JP": [
+            {
+                "title": "Kuon",
+                "date": "2004-04-01T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Kuon",
+                "date": "2004-06-24T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Kuon",
+                "date": "2004-12-07T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Kuon",
+                "date": "2006-04-28T00:00:00"
+            }
+        ]
+    },
+    "Lost Kingdoms": {
+        "JP": [
+            {
+                "title": "Rune",
+                "date": "2002-04-25T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Lost Kingdoms",
+                "date": "2002-05-27T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Lost Kingdoms",
+                "date": "2002-08-09T00:00:00"
+            }
+        ]
+    },
+    "Lost Kingdoms II": {
+        "US": [
+            {
+                "title": "Lost Kingdoms II",
+                "date": "2003-05-21T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Rune II: Koruten no Kagi no Himitsu",
+                "date": "2003-05-23T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Lost Kingdoms II",
+                "date": "2003-06-06T00:00:00"
+            }
+        ]
+    },
+    "Metal Wolf Chaos": {
+        "JP": [
+            {
+                "title": "Metal Wolf Chaos",
+                "date": "2004-12-22T00:00:00"
+            }
+        ]
+    },
+    "Murakumo: Renegade Mech Pursuit": {
+        "JP": [
+            {
+                "title": "Murakumo",
+                "date": "2002-07-25T00:00:00"
+            },
+            {
+                "title": "Murakumo (Platinum Collection)",
+                "date": "2003-10-23T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Murakumo: Renegade Mech Pursuit",
+                "date": "2003-03-05T00:00:00"
+            }
+        ]
+    },
+    "Otogi: Myth of Demons": {
+        "JP": [
+            {
+                "title": "Otogi",
+                "date": "2002-12-12T00:00:00"
+            },
+            {
+                "title": "Otogi (Platinum Collection)",
+                "date": "2004-09-02T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Otogi: Myth of Demons",
+                "date": "2003-08-27T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Otogi: Myth of Demons",
+                "date": "2003-09-05T00:00:00"
+            }
+        ]
+    },
+    "O\u30fbTO\u30fbGI \uff5e\u767e\u9b3c\u8a0e\u4f10\u7d75\u5dfb\uff5e": {
+        "JP": [
+            {
+                "title": "Otogi: Hyakki Toubatsu Emaki",
+                "date": "2003-12-25T00:00:00"
+            },
+            {
+                "title": "Otogi: Hyakki Toubatsu Emaki (Special Pack)",
+                "date": "2003-12-25T00:00:00"
+            },
+            {
+                "title": "Otogi: Hyakki Toubatsu Emaki (Platinum  Collection)",
+                "date": "2004-09-02T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Otogi 2: Immortal Warriors",
+                "date": "2004-10-21T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Otogi 2: Immortal Warriors",
+                "date": "2005-02-11T00:00:00"
+            }
+        ]
+    },
+    "SPRIGGAN -LUNAR VERSE-": {
+        "JP": [
+            {
+                "title": "Spriggan: Lunar Verse",
+                "date": "1999-06-17T00:00:00"
+            }
+        ]
+    },
+    "Sekiro: Shadows Die Twice": {},
+    "Shadow Assault Tenchu": {
+        "US": [
+            {
+                "title": "Shadow Assault -Tenchu-",
+                "date": "2008-10-08T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Shadow Assault -Tenchu-",
+                "date": "2008-10-08T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Shadow Assault -Tenchu-",
+                "date": "2008-10-08T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Shadow Assault -Tenchu-",
+                "date": "2008-10-08T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Shadow Assault -Tenchu-",
+                "date": "2008-10-08T00:00:00"
+            }
+        ]
+    },
+    "Shadow Tower": {
+        "JP": [
+            {
+                "title": "Shadow Tower",
+                "date": "1998-06-25T00:00:00"
+            },
+            {
+                "title": "Shadow Tower",
+                "date": "2007-09-27T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Shadow Tower",
+                "date": "1999-10-31T00:00:00"
+            },
+            {
+                "title": "Shadow Tower",
+                "date": "2015-03-31T00:00:00"
+            }
+        ]
+    },
+    "Shadow Tower: Abyss": {
+        "JP": [
+            {
+                "title": "Shadow Tower: Abyss",
+                "date": "2003-10-23T00:00:00"
+            }
+        ]
+    },
+    "Silent Line: Armored Core": {
+        "JP": [
+            {
+                "title": "Armored Core 3: Silent Line",
+                "date": "2003-01-23T00:00:00"
+            },
+            {
+                "title": "Armored Core 3: Silent Line (PlayStation 2 the Best)",
+                "date": "2004-02-26T00:00:00"
+            },
+            {
+                "title": "Armored Core: Silent Line Portable",
+                "date": "2009-11-19T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Silent Line: Armored Core",
+                "date": "2003-07-17T00:00:00"
+            },
+            {
+                "title": "Armored Core: Silent Line Portable",
+                "date": "2010-02-03T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Silent Line: Armored Core",
+                "date": "2005-07-01T00:00:00"
+            },
+            {
+                "title": "Armored Core: Silent Line Portable",
+                "date": "2010-06-16T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Armored Core: Silent Line Portable",
+                "date": "2009-11-20T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Armored Core: Silent Line Portable",
+                "date": "2009-11-20T00:00:00"
+            }
+        ]
+    },
+    "Steel Battalion: Heavy Armor": {
+        "US": [
+            {
+                "title": "Steel Battalion: Heavy Armor",
+                "date": "2012-06-19T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Steel Battalion: Heavy Armor",
+                "date": "2012-06-20T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Jutekki: Steel Batallion",
+                "date": "2012-06-21T00:00:00"
+            },
+            {
+                "title": "Jutekki: Steel Batallion (Kinect Sensor Bundle)",
+                "date": "2012-06-21T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Steel Battalion: Heavy Armor",
+                "date": "2012-06-22T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Steel Battalion: Heavy Armor",
+                "date": "2012-06-28T00:00:00"
+            }
+        ]
+    },
+    "Tenchu Z": {
+        "JP": [
+            {
+                "title": "Tenchu Senran",
+                "date": "2006-10-05T00:00:00"
+            },
+            {
+                "title": "Tenchu Senran (Platinum Collection)",
+                "date": "2007-06-14T00:00:00"
+            },
+            {
+                "title": "Tenchu Senran",
+                "date": "2009-09-22T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Tenchu Z",
+                "date": "2007-06-07T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Tenchu Z",
+                "date": "2007-06-12T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Tenchu Z",
+                "date": "2007-06-21T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Tenchu Z",
+                "date": "2007-06-29T00:00:00"
+            }
+        ]
+    },
+    "Tenchu: Dark Secret": {
+        "JP": [
+            {
+                "title": "Tenchu: Dark Shadow",
+                "date": "2006-04-06T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Tenchu: Dark Secret",
+                "date": "2006-08-21T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Tenchu: Dark Secret",
+                "date": "2006-09-21T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Tenchu: Dark Secret",
+                "date": "2006-11-24T00:00:00"
+            }
+        ]
+    },
+    "Tenchu: Fatal Shadows": {
+        "JP": [
+            {
+                "title": "Ninja Katsugeki: Tenchu Kurenai Portable",
+                "date": "2010-01-28T00:00:00"
+            },
+            {
+                "title": "Tenchu Kurenai",
+                "date": "2004-07-22T00:00:00"
+            },
+            {
+                "title": "Tenchu Kurenai (PlayStation 2 the Best)",
+                "date": "2005-11-02T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Tenchu Kurenai Portable",
+                "date": "2010-01-28T00:00:00"
+            },
+            {
+                "title": "Tenchu Kurenai",
+                "date": "2004-07-22T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Tenchu Kurenai",
+                "date": "2004-12-23T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Tenchu: Fatal Shadows",
+                "date": "2005-02-15T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Tenchu: Fatal Shadows",
+                "date": "2005-05-06T00:00:00"
+            }
+        ]
+    },
+    "Tenchu: Shadow Assassins": {
+        "JP": [
+            {
+                "title": "Tenchu 4",
+                "date": "2009-02-12T00:00:00"
+            },
+            {
+                "title": "Tenchu 4 Plus (PSP the Best)",
+                "date": "2010-02-18T00:00:00"
+            },
+            {
+                "title": "Tenchu 4",
+                "date": "2008-10-23T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Tenchu 4",
+                "date": "2009-02-12T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Tenchu 4",
+                "date": "2009-02-13T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Tenchu: Shadow Assassins",
+                "date": "2009-03-24T00:00:00"
+            },
+            {
+                "title": "Tenchu: Shadow Assassins",
+                "date": "2009-02-05T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Tenchu: Shadow Assassins",
+                "date": "2009-04-03T00:00:00"
+            },
+            {
+                "title": "Tenchu: Shadow Assassins",
+                "date": "2009-03-12T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Tenchu: Shadow Assassins",
+                "date": "2009-04-09T00:00:00"
+            },
+            {
+                "title": "Tenchu: Shadow Assassins",
+                "date": "2009-03-12T00:00:00"
+            }
+        ]
+    },
+    "Tenchu: Time of the Assassins": {
+        "AS": [
+            {
+                "title": "Tenchu: Shinobi Taizen",
+                "date": "2005-07-26T00:00:00"
+            },
+            {
+                "title": "Tenchu: Shinobi Taizen (PSP the Best)",
+                "date": "2006-06-06T00:00:00"
+            }
+        ],
+        "JP": [
+            {
+                "title": "Tenchu: Shinobi Taizen",
+                "date": "2005-07-28T00:00:00"
+            },
+            {
+                "title": "Tenchu: Shinobi Taizen (PSP the Best)",
+                "date": "2006-06-29T00:00:00"
+            },
+            {
+                "title": "Tenchu: Shinobi Taizen",
+                "date": "2009-11-01T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Tenchu: Time of the Assassins",
+                "date": "2006-06-23T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Tenchu: Time of the Assassins",
+                "date": "Canceled"
+            }
+        ]
+    },
+    "The Adventures of Cookie & Cream": {
+        "JP": [
+            {
+                "title": "Kuri Kuri Mix",
+                "date": "2000-12-07T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "The Adventures of Cookie & Cream",
+                "date": "2001-04-30T00:00:00"
+            },
+            {
+                "title": "The Adventures of Cookie & Cream",
+                "date": "2013-11-05T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Kuri Kuri Mix",
+                "date": "2001-05-04T00:00:00"
+            }
+        ]
+    },
+    "Yatsu Hakamura": {
+        "JP": [
+            {
+                "title": "Yatsu Hakamura",
+                "date": "2009-04-23T00:00:00"
+            }
+        ]
+    },
+    "Yoshitsune Eiyuuden": {
+        "JP": [
+            {
+                "title": "Yoshitsune Eiyuuden: The Story of Hero Yoshitsune",
+                "date": "2005-01-13T00:00:00"
+            },
+            {
+                "title": "Yoshitsune Eiyuuden Shura: The Story of Hero Yoshitsune Shura",
+                "date": "2005-10-27T00:00:00"
+            }
+        ]
+    },
+    "\u30a4\u30e9\u30ed\u30b8VOW": {
+        "JP": [
+            {
+                "title": "Iraroji VOW",
+                "date": "2007-05-24T00:00:00"
+            }
+        ]
+    },
+    "\u30b5\u30a6\u30b6\u30f3\u30c9\u30e9\u30f3\u30c9 Thousand Land": {
+        "JP": [
+            {
+                "title": "Thousand Land",
+                "date": "2003-03-20T00:00:00"
+            }
+        ]
+    },
+    "\u30cb\u30f3\u30b8\u30e3\u30d6\u30ec\u30a4\u30c9": {
+        "JP": [
+            {
+                "title": "Ninja Blade",
+                "date": "2009-01-29T00:00:00"
+            },
+            {
+                "title": "Ninja Blade (Platinum Collection)",
+                "date": "2010-04-08T00:00:00"
+            },
+            {
+                "title": "Ninja Blade",
+                "date": "2011-05-24T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Ninja Blade",
+                "date": "2009-02-05T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Ninja Blade",
+                "date": "2009-04-03T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Ninja Blade",
+                "date": "2009-04-07T00:00:00"
+            }
+        ],
+        "AU": [
+            {
+                "title": "Ninja Blade",
+                "date": "2009-08-06T00:00:00"
+            }
+        ]
+    },
+    "\u5929\u8a85 \u53c2": {
+        "JP": [
+            {
+                "title": "Ninja Katsugeki: Tenchu San Portable",
+                "date": "2009-08-27T00:00:00"
+            },
+            {
+                "title": "Tenchu San: Kaiki no Shou",
+                "date": "2004-05-27T00:00:00"
+            },
+            {
+                "title": "Tenchu San",
+                "date": "2003-04-24T00:00:00"
+            },
+            {
+                "title": "Tenchu San (PlayStation 2 the Best)",
+                "date": "2004-02-26T00:00:00"
+            },
+            {
+                "title": "Tenchu San (PlayStation 2 the Best Reprint)",
+                "date": "2006-03-02T00:00:00"
+            }
+        ],
+        "AS": [
+            {
+                "title": "Ninja Katsugeki: Tenchu San Portable",
+                "date": "2009-08-27T00:00:00"
+            },
+            {
+                "title": "Tenchu: Return From Darkness",
+                "date": "2004-03-10T00:00:00"
+            }
+        ],
+        "KO": [
+            {
+                "title": "Ninja Katsugeki: Tenchu San Portable",
+                "date": "2009-09-03T00:00:00"
+            },
+            {
+                "title": "Tenchu 3: Wrath of Heaven",
+                "date": "2003-05-22T00:00:00"
+            }
+        ],
+        "US": [
+            {
+                "title": "Tenchu: Return From Darkness",
+                "date": "2004-03-10T00:00:00"
+            },
+            {
+                "title": "Tenchu: Wrath of Heaven",
+                "date": "2003-03-03T00:00:00"
+            }
+        ],
+        "EU": [
+            {
+                "title": "Tenchu: Return from Darkness",
+                "date": "2004-03-19T00:00:00"
+            },
+            {
+                "title": "Tenchu: Wrath of Heaven",
+                "date": "2003-03-07T00:00:00"
+            }
+        ]
+    },
+    "\u5df1\u306e\u4fe1\u305a\u308b\u9053\u3092\u5f81\u3051": {
+        "JP": [
+            {
+                "title": "Onore no Shinzuru Michi o Yuke",
+                "date": "2009-06-11T00:00:00"
+            },
+            {
+                "title": "Onore no Shinzuru Michi o Yuke",
+                "date": "2010-07-01T00:00:00"
+            }
+        ]
+    }
+}
